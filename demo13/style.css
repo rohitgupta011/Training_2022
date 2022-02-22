@@ -1,0 +1,23 @@
+
+/* ID Selector used when you want to update specific element */
+#addsection{
+    border:solid 2px red;
+    height: fit-content;
+    width: fit-content;
+}
+
+/* 
+Group non related or different elements for giving common formationg use 
+class selector 
+*/
+.col-1{
+    border:solid 2px magenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    height: 10px;
+    width: 100px;
+}
+img{
+    height:100px;
+    width:100px;    
+}
